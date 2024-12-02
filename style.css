@@ -73,7 +73,7 @@ p{
 }
 
 .header{
-    background: radial-gradient(#fff, #ffd6d9);
+    background:blue;
 }
 
 .header .row{
@@ -138,7 +138,7 @@ h4{
 }
 
 .offer{
-    background: radial-gradient(#fff, #ffd6d9);
+    background:lightcoral;
     margin-top: 80px;
     padding: 30px 0;
 }
@@ -397,7 +397,7 @@ th:last-child{
 
 .account-page{
     padding: 50px 0;
-    background:radial-gradient(#fff, #ffd6d6) ;
+    background:radial-gradient lawngreen ;
 
 }
 
